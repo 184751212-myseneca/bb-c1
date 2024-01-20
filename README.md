@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- My name is Bishwash BC
-- My OPS section is OPS445NAA
+- Hey Its Bishwash. How is it going?
